@@ -5,7 +5,7 @@ Hey, my name is Zack. I'm a student at Bradley University studying Computer Scie
 ### Projects
 - [Dormly Software](https://dormlysoftware.com): The modern higher-education software suite
 - [TakeCtrl](https://github.com/zacheri04/takectrl): A macOS menu bar utility for overriding default keyboard/mouse behavior
-- [Photo Booth Automation](https://github.com/duncan-carr/photo-booth): A weekend project to automate photo booth processes, including importing, watermarking, and distributing
+- [Photo Booth Automation](https://github.com/duncan-carr/photo-booth): A weekend project to automate photo booth processes, including importing, watermarking, and distributing photos
 
 ### Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/zachary-dupree/)
