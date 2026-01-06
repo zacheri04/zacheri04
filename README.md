@@ -4,6 +4,7 @@ Hey, my name is Zack. I'm a student at Bradley University studying Computer Scie
 
 ### Projects
 - [Dormly Software](https://dormlysoftware.com): The modern higher-education software suite
+- [Metal Image Upscaler](https://github.com/zacheri04/metalimageupscaler): A macOS command line utility for upscaling images with various algorithms. Written in Swift and Metal Shading Language (MSL).
 - [TakeCtrl](https://github.com/zacheri04/takectrl): A macOS menu bar utility for overriding default keyboard/mouse behavior
 - [Photo Booth Automation](https://github.com/duncan-carr/photo-booth): A weekend project to automate photo booth processes, including importing, watermarking, and distributing photos
 
